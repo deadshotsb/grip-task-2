@@ -35,7 +35,7 @@ The Jupyter notebook (US-Border-Crossing-Data-Analysis.ipynb) file contains the 
 
 You can check the latest sources with the command:
 
-`git clone `
+`git clone https://github.com/deadshotsb/grip-task-2.git`
 
 ## How to interact ##
 
