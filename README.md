@@ -29,7 +29,7 @@ or `conda`:
 
 There is only one file in this in repository.
 
-The Jupyter notebook (US-Border-Crossing-Data-Analysis.ipynb) file contains the project.
+The Jupyter notebook file contains the project.
 
 ## Source code ## 
 
